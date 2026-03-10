@@ -932,3 +932,20 @@ html[dir="rtl"] .back-arrow {
   object-fit: contain;
   transition: transform 0.2s ease, opacity 0.2s ease;
 }
+@media (max-width: 680px) {
+  .language-help {
+    padding-top: 10px;
+  }
+
+  .help-arrow-wrap {
+    position: static;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+
+  .help-arrow {
+    width: 120px;
+    height: 50px;
+  }
+}

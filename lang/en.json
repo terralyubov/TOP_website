@@ -119,6 +119,13 @@
     "onlineZoom": "Online (Zoom)",
     "timeNote": "If this time does not work for you, please feel free to get in touch. The Oak Project is still growing, and we hope to add more sessions as the community develops. We will always do our best to accommodate times that work for as many people as possible."
   },
+  "groupSchedule": {
+  "computerWhen": "Saturday — 3:30–4:30 pm",
+  "codingWhen": "Saturday — 5:00–6:00 pm",
+  "englishWhen": "Thursday — 5:00–6:00 pm",
+  "mindfulnessWhen": "Sunday — 12:00–1:00 pm",
+  "artWhen": "Sunday — 3:30–4:30 pm"
+},
 
   "groupPages": {
     "backToGroups": "Back to groups",

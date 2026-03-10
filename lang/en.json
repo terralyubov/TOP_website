@@ -1,0 +1,189 @@
+{
+  "siteSubtitle": "The Oak Project",
+  "tagline": "A community space for learning, creativity and connection.",
+  "intro": "The Oak Project (TOP) is a small welcoming community project where people can come together to learn useful skills, share creativity, and support one another in a friendly environment.",
+  "onlineFree": "All groups and classes are online and free to attend.",
+  "groupsTitle": "Groups",
+  "groupsIntro": "No experience needed, all welcome, whatever level.",
+
+  "nav": {
+    "home": "Home",
+    "groups": "Groups",
+    "timetable": "Timetable",
+    "about": "About",
+    "help": "Help"
+  },
+
+  "buttons": {
+    "viewTimetable": "View weekly timetable",
+    "signup": "Sign up now"
+  },
+
+  "navgroups": {
+    "computer": "Computer Basics",
+    "coding": "Beginner Coding",
+    "english": "English Speaking Practice",
+    "mindfulness": "Mindfulness & Meditation",
+    "art": "Art Sharing Group"
+  },
+
+  "groups": {
+    "computer": {
+      "title": "Computer Basics",
+      "desc": "A friendly introduction to computers email and staying safe and confident online."
+    },
+    "coding": {
+      "title": "Beginner Coding",
+      "desc": "A gentle introduction to programming where we explore simple coding concepts and small creative projects together."
+    },
+    "english": {
+      "title": "English Speaking Practice",
+      "desc": "A relaxed conversation group for people with little or no English as well as anyone who wants to practise speaking with more confidence."
+    },
+    "mindfulness": {
+      "title": "Mindfulness and Meditation",
+      "desc": "Simple mindfulness practices to help cultivate calm focus and awareness in everyday life."
+    },
+    "art": {
+      "title": "Art Sharing Group",
+      "desc": "A welcoming creative space to share artwork ideas and inspiration with optional prompts to explore creatively together."
+    }
+  },
+
+  "moreSoon": "More to come soon!",
+
+  "updates": {
+    "mailingList": "Join our mailing list",
+    "socialText": "or follow us on social media for updates."
+  },
+
+  "aboutPage": {
+    "title": "About",
+    "name": "The Oak Project (TOP)",
+    "intro1": "The Oak Project (TOP) is a community initiative built around the idea that learning, creativity, movement, and shared experience can help people grow stronger and more connected.",
+    "intro2": "Modern life can often feel fragmented and isolating. Many people spend large parts of their lives disconnected from meaningful community, practical learning, or opportunities to share skills with others. At the same time, many people experience periods of disruption or difficulty that can make it harder to access traditional education or support systems.",
+    "intro3": "TOP aims to offer a welcoming space where people can come together to learn practical skills, explore creativity, and build supportive connections with others. Our hope is that these groups not only help people develop confidence and new opportunities, but also create a place where friendships can grow and learning together can be genuinely enjoyable.",
+    "belief": "Our belief is simple: learning together can be empowering.",
+    "sharedLearningTitle": "Shared learning",
+    "sharedLearning1": "TOP is built around the idea of learning with one another rather than only learning from experts.",
+    "sharedLearning2": "Participants are welcome not only to attend sessions, but also to share ideas, knowledge, and experiences with the group. Over time we hope to create a culture of skill sharing, where people feel comfortable contributing their own interests and expertise.",
+    "sharedLearning3": "This might include sharing languages, creative practices, technical knowledge, practical skills, or cultural traditions. By learning from one another, the community itself becomes a source of knowledge, support, and inspiration.",
+    "whoForTitle": "Who this space is for",
+    "whoFor1": "The Oak Project is open to anyone who would like a welcoming place to learn, connect, and explore new ideas.",
+    "whoFor2": "We hope the project will be especially supportive for people who may feel isolated, anxious about traditional learning environments, or who have experienced periods of disruption or challenge in their lives. This may include people rebuilding confidence after difficult experiences, those adapting to life in a new place, or anyone seeking opportunities for personal growth and connection.",
+    "whoFor3": "At the same time, everyone is welcome. The project aims to bring together people from many different backgrounds and experiences, creating opportunities for unexpected friendships and shared learning.",
+    "whoFor4": "Sessions are designed with trauma-aware principles in mind, aiming to create calm, respectful spaces where people can participate at their own pace.",
+    "lookingAheadTitle": "Looking ahead",
+    "lookingAhead1": "The Oak Project is still in its early stages. For now, sessions take place online while the community gradually grows.",
+    "lookingAhead2": "In the long term, we hope to develop a physical space where learning, creativity, food, movement, and conversation can exist together. This might include workshops for making and craft, creative studios, spaces for martial arts and movement, shared kitchens, gardens, and places for community gatherings.",
+    "lookingAhead3": "The goal is to create an environment where people can learn practical skills, explore creative interests, build confidence, and connect with others in meaningful ways.",
+    "learningTitle": "Learning, creativity, and movement",
+    "learning1": "The Oak Project hopes to bring together different forms of learning that are often separated in modern life.",
+    "learning2": "Practical skills, creative expression, conversation, and physical movement can all play a role in helping people feel more grounded and confident. Activities such as art, making, coding, gardening, cooking, and martial arts allow people to learn in ways that engage both the mind and body.",
+    "learning3": "By bringing these elements together, the aim is to create an environment where people can explore interests, discover new abilities, and support one another’s growth. These shared activities also create opportunities for people to meet others with similar interests, build friendships, and enjoy learning in a relaxed and welcoming atmosphere.",
+    "focusTitle": "For now, the focus is simple:",
+    "focusText": "bringing people together to learn, share, support one another, and enjoy the process along the way."
+  },
+
+  "helpPage": {
+    "languageTitle": "Need another language?",
+    "languageText": "Use the globe icon at the top of the page to change the website language.",
+    "supportTitle": "Help & Support",
+    "support1": "If you have questions, need help signing up, or would like support joining a group, you are very welcome to get in touch.",
+    "whatsAppLabel": "WhatsApp:",
+    "emailLabel": "Email:",
+    "support2": "You can send a WhatsApp message or an email if you have questions, need help joining a group, or are unsure where to start.",
+    "support3": "It is completely fine if you are not confident with technology. Support is available, and no question is too small.",
+    "beforeJoinTitle": "Before you join",
+    "beforeJoin1": "All groups are online and free to attend.",
+    "beforeJoin2": "No previous experience is needed.",
+    "beforeJoin3": "If joining online feels confusing at first, don’t worry — help is available.",
+    "suggestionsTitle": "Suggestions & getting involved",
+    "suggestions1": "If you would like to join a group but cannot make the scheduled time, feel free to get in touch. As the project grows we hope to add more sessions and will do our best to accommodate times that work for people.",
+    "suggestions2": "If you would like to suggest a group, run a session, or get involved in the project, we would love to hear from you."
+  },
+
+  "timetablePage": {
+    "title": "Weekly timetable",
+    "thursday": "Thursday",
+    "saturday": "Saturday",
+    "sunday": "Sunday"
+  },
+
+  "sessionInfo": {
+    "title": "Session details",
+    "when": "When:",
+    "duration": "Duration:",
+    "format": "Format:",
+    "oneHour": "1 hour",
+    "onlineZoom": "Online (Zoom)",
+    "timeNote": "If this time does not work for you, please feel free to get in touch. The Oak Project is still growing, and we hope to add more sessions as the community develops. We will always do our best to accommodate times that work for as many people as possible."
+  },
+
+  "groupPages": {
+    "backToGroups": "Back to groups",
+
+    "computer": {
+      "intro": "This group helps people build confidence using computers and the internet.",
+      "includeTitle": "Sessions may include things like:",
+      "li1": "using email and basic online tools",
+      "li2": "understanding passwords and online safety",
+      "li3": "recognising scams and misinformation",
+      "li4": "protecting your privacy online",
+      "li5": "managing files and documents",
+      "aim": "The aim is not just learning how to use technology, but learning how to use it safely and confidently.",
+      "experience": "No previous experience is needed.",
+      "support": "If joining online feels confusing at first, don’t worry — support will be available to help people get started."
+    },
+
+    "coding": {
+      "intro": "This group introduces the basics of programming in a friendly and supportive environment.",
+      "includeTitle": "Sessions may include things like:",
+      "li1": "understanding how code works",
+      "li2": "writing simple programs together",
+      "li3": "exploring creative coding projects",
+      "li4": "learning problem-solving through programming",
+      "li5": "building confidence using technology creatively",
+      "aim": "The aim is not to become an expert overnight, but to explore how coding works and develop curiosity and confidence.",
+      "experience": "No previous experience is needed.",
+      "support": "If joining online feels confusing at first, don’t worry — support will be available to help people get started."
+    },
+
+    "english": {
+      "intro": "This is a friendly and informal space to practise speaking English.",
+      "includeTitle": "Sessions may include things like:",
+      "li1": "everyday conversation practice",
+      "li2": "storytelling or folk tales",
+      "li3": "sharing personal experiences",
+      "li4": "practising for interviews or presentations",
+      "li5": "reading short texts together",
+      "p2": "People with little or no English are very welcome, and we take things slowly so everyone can feel comfortable joining in.",
+      "p3": "The group is also open to anyone who would like to build confidence speaking, practise reading aloud, or simply enjoy conversation in a supportive environment.",
+      "p4": "There is no pressure to speak perfectly. The aim is to create a welcoming space where people from different backgrounds can practise language, share ideas, and build unexpected connections."
+    },
+
+    "mindfulness": {
+      "intro": "This group offers simple mindfulness practices to support calm, focus, and awareness in everyday life.",
+      "includeTitle": "Sessions may include things like:",
+      "li1": "guided breathing practices",
+      "li2": "short meditations",
+      "li3": "body awareness and grounding",
+      "li4": "gentle reflection",
+      "li5": "simple tools for managing stress and overwhelm",
+      "p2": "Everything is optional and beginner-friendly. There is no need for previous experience.",
+      "p3": "The aim is not perfection, but creating a calm and supportive space where people can explore practices that may help them feel more grounded."
+    },
+
+    "art": {
+      "intro": "This is a welcoming space for anyone who enjoys making or sharing art.",
+      "includeTitle": "Sessions may include things like:",
+      "li1": "sharing drawings, paintings, writing, music, photography, or crafts",
+      "li2": "talking about art that inspires you",
+      "li3": "optional creative prompts to explore together",
+      "li4": "gentle discussion and idea sharing",
+      "li5": "making space for curiosity and experimentation",
+      "p2": "You are welcome to share your own work, unfinished work, or pieces by other people that you admire and want to discuss.",
+      "p3": "The aim is not technical perfection, but creating a supportive environment where people can explore creativity, exchange ideas, and enjoy making things together."
+    }
+  }
+}

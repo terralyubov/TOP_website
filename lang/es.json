@@ -1,0 +1,173 @@
+{
+  "siteSubtitle": "The Oak Project",
+  "tagline": "Un espacio comunitario para aprender, crear y conectar.",
+  "intro": "The Oak Project (TOP) es un pequeño proyecto comunitario y acogedor donde las personas pueden reunirse para aprender habilidades útiles, compartir creatividad y apoyarse mutuamente en un entorno amistoso.",
+  "onlineFree": "Todos los grupos y clases son en línea y gratuitos.",
+  "groupsTitle": "Grupos",
+  "groupsIntro": "No se necesita experiencia, todas las personas son bienvenidas, sea cual sea su nivel.",
+  "nav": {
+    "home": "Inicio",
+    "groups": "Grupos",
+    "timetable": "Horario",
+    "about": "Información",
+    "help": "Ayuda"
+  },
+  "buttons": {
+    "viewTimetable": "Ver horario semanal",
+    "signup": "Inscribirse"
+  },
+  "navgroups": {
+    "computer": "Conceptos básicos de informática",
+    "coding": "Programación para principiantes",
+    "english": "Práctica de conversación en inglés",
+    "mindfulness": "Mindfulness y meditación",
+    "art": "Grupo de arte"
+  },
+  "groups": {
+    "computer": {
+      "title": "Conceptos básicos de informática",
+      "desc": "Una introducción amable a los ordenadores, al correo electrónico y a mantenerse seguro y con confianza en internet."
+    },
+    "coding": {
+      "title": "Programación para principiantes",
+      "desc": "Una introducción suave a la programación donde exploramos conceptos sencillos y pequeños proyectos creativos juntos."
+    },
+    "english": {
+      "title": "Práctica de conversación en inglés",
+      "desc": "Un grupo de conversación relajado para personas con poco o ningún inglés, así como para cualquiera que quiera hablar con más confianza."
+    },
+    "mindfulness": {
+      "title": "Mindfulness y meditación",
+      "desc": "Prácticas sencillas de atención plena para cultivar la calma, la concentración y la conciencia en la vida cotidiana."
+    },
+    "art": {
+      "title": "Grupo de arte",
+      "desc": "Un espacio creativo y acogedor para compartir obras, ideas e inspiración, con propuestas opcionales para explorar juntos."
+    }
+  },
+  "moreSoon": "¡Pronto habrá más actividades!",
+  "updates": {
+    "mailingList": "Únete a nuestra lista de correo",
+    "socialText": "o síguenos en redes sociales para recibir novedades."
+  },
+  "aboutPage": {
+    "title": "Información",
+    "name": "The Oak Project (TOP)",
+    "intro1": "The Oak Project (TOP) es una iniciativa comunitaria construida en torno a la idea de que el aprendizaje, la creatividad, el movimiento y la experiencia compartida pueden ayudar a las personas a volverse más fuertes y más conectadas.",
+    "intro2": "La vida moderna a menudo puede sentirse fragmentada y aislante. Muchas personas pasan gran parte de su vida desconectadas de una comunidad significativa, del aprendizaje práctico o de oportunidades para compartir habilidades con otras personas. Al mismo tiempo, muchas personas atraviesan periodos de interrupción o dificultad que pueden hacer más difícil acceder a la educación tradicional o a los sistemas de apoyo.",
+    "intro3": "TOP busca ofrecer un espacio acogedor donde las personas puedan reunirse para aprender habilidades prácticas, explorar la creatividad y construir conexiones de apoyo con otras personas. Esperamos que estos grupos no solo ayuden a las personas a desarrollar confianza y nuevas oportunidades, sino que también creen un lugar donde puedan crecer amistades y donde aprender juntas pueda ser realmente agradable.",
+    "belief": "Nuestra idea es simple: aprender juntas puede ser empoderador.",
+    "sharedLearningTitle": "Aprendizaje compartido",
+    "sharedLearning1": "TOP se basa en la idea de aprender unas personas con otras, en lugar de aprender solo de expertos.",
+    "sharedLearning2": "Las personas participantes son bienvenidas no solo a asistir a las sesiones, sino también a compartir ideas, conocimientos y experiencias con el grupo. Con el tiempo esperamos crear una cultura de intercambio de habilidades, donde las personas se sientan cómodas aportando sus propios intereses y experiencia.",
+    "sharedLearning3": "Esto puede incluir compartir idiomas, prácticas creativas, conocimientos técnicos, habilidades prácticas o tradiciones culturales. Al aprender unas de otras, la propia comunidad se convierte en una fuente de conocimiento, apoyo e inspiración.",
+    "whoForTitle": "Para quién es este espacio",
+    "whoFor1": "The Oak Project está abierto a cualquier persona que quiera un lugar acogedor para aprender, conectar y explorar nuevas ideas.",
+    "whoFor2": "Esperamos que el proyecto sea especialmente útil para personas que puedan sentirse aisladas, incómodas en entornos de aprendizaje tradicionales o que hayan atravesado periodos de interrupción o dificultad en sus vidas. Esto puede incluir personas que están recuperando confianza después de experiencias difíciles, quienes se están adaptando a vivir en un lugar nuevo, o cualquier persona que busque oportunidades de crecimiento personal y conexión.",
+    "whoFor3": "Al mismo tiempo, todo el mundo es bienvenido. El proyecto busca reunir a personas de muchos contextos y experiencias diferentes, creando oportunidades para amistades inesperadas y aprendizaje compartido.",
+    "whoFor4": "Las sesiones están diseñadas con principios sensibles al trauma, con el objetivo de crear espacios tranquilos y respetuosos donde las personas puedan participar a su propio ritmo.",
+    "lookingAheadTitle": "Mirando hacia adelante",
+    "lookingAhead1": "The Oak Project todavía está en sus primeras etapas. Por ahora, las sesiones tienen lugar en línea mientras la comunidad crece poco a poco.",
+    "lookingAhead2": "A largo plazo, esperamos desarrollar un espacio físico donde el aprendizaje, la creatividad, la comida, el movimiento y la conversación puedan existir juntos. Esto podría incluir talleres de fabricación y artesanía, estudios creativos, espacios para artes marciales y movimiento, cocinas compartidas, jardines y lugares para encuentros comunitarios.",
+    "lookingAhead3": "El objetivo es crear un entorno donde las personas puedan aprender habilidades prácticas, explorar intereses creativos, desarrollar confianza y conectar con otras personas de maneras significativas.",
+    "learningTitle": "Aprendizaje, creatividad y movimiento",
+    "learning1": "The Oak Project espera reunir distintas formas de aprendizaje que a menudo están separadas en la vida moderna.",
+    "learning2": "Las habilidades prácticas, la expresión creativa, la conversación y el movimiento físico pueden desempeñar un papel importante para ayudar a las personas a sentirse más centradas y seguras. Actividades como el arte, la creación manual, la programación, la jardinería, la cocina y las artes marciales permiten aprender de maneras que involucran tanto la mente como el cuerpo.",
+    "learning3": "Al reunir estos elementos, el objetivo es crear un entorno donde las personas puedan explorar intereses, descubrir nuevas capacidades y apoyar el crecimiento de otras personas. Estas actividades compartidas también crean oportunidades para conocer a otras personas con intereses similares, construir amistades y disfrutar del aprendizaje en un ambiente relajado y acogedor.",
+    "focusTitle": "Por ahora, el enfoque es simple:",
+    "focusText": "reunir a las personas para aprender, compartir, apoyarse mutuamente y disfrutar del proceso en el camino."
+  },
+  "helpPage": {
+    "languageTitle": "¿Necesitas otro idioma?",
+    "languageText": "Usa el icono del globo en la parte superior de la página para cambiar el idioma del sitio web.",
+    "supportTitle": "Ayuda y apoyo",
+    "support1": "Si tienes preguntas, necesitas ayuda para inscribirte o te gustaría recibir apoyo para unirte a un grupo, eres muy bienvenida a ponerte en contacto.",
+    "whatsAppLabel": "WhatsApp:",
+    "emailLabel": "Correo electrónico:",
+    "support2": "Puedes enviar un mensaje por WhatsApp o un correo electrónico si tienes preguntas, necesitas ayuda para unirte a un grupo o no sabes por dónde empezar.",
+    "support3": "Está completamente bien si no te sientes segura con la tecnología. Hay apoyo disponible, y ninguna pregunta es demasiado pequeña.",
+    "beforeJoinTitle": "Antes de unirte",
+    "beforeJoin1": "Todos los grupos son en línea y gratuitos.",
+    "beforeJoin2": "No se necesita experiencia previa.",
+    "beforeJoin3": "Si al principio te resulta confuso unirte en línea, no te preocupes: hay ayuda disponible.",
+    "suggestionsTitle": "Sugerencias y participación",
+    "suggestions1": "Si te gustaría unirte a un grupo pero no puedes asistir al horario programado, no dudes en ponerte en contacto. A medida que el proyecto crezca esperamos añadir más sesiones y haremos todo lo posible por adaptarnos a horarios que funcionen para la gente.",
+    "suggestions2": "Si te gustaría sugerir un grupo, dirigir una sesión o participar en el proyecto, nos encantaría saber de ti."
+  },
+  "timetablePage": {
+    "title": "Horario semanal",
+    "thursday": "Jueves",
+    "saturday": "Sábado",
+    "sunday": "Domingo"
+  },
+  "sessionInfo": {
+    "title": "Detalles de la sesión",
+    "when": "Cuándo:",
+    "duration": "Duración:",
+    "format": "Formato:",
+    "oneHour": "1 hora",
+    "onlineZoom": "En línea (Zoom)",
+    "timeNote": "Si este horario no te viene bien, no dudes en ponerte en contacto. The Oak Project todavía está creciendo y esperamos añadir más sesiones a medida que la comunidad se desarrolle. Siempre haremos todo lo posible por adaptarnos a horarios que funcionen para el mayor número de personas posible."
+  },
+  "groupPages": {
+    "backToGroups": "Volver a los grupos",
+    "computer": {
+      "intro": "Este grupo ayuda a las personas a ganar confianza usando ordenadores e internet.",
+      "includeTitle": "Las sesiones pueden incluir cosas como:",
+      "li1": "usar el correo electrónico y herramientas básicas en línea",
+      "li2": "comprender las contraseñas y la seguridad en internet",
+      "li3": "reconocer estafas y desinformación",
+      "li4": "proteger tu privacidad en internet",
+      "li5": "gestionar archivos y documentos",
+      "aim": "El objetivo no es solo aprender a usar la tecnología, sino aprender a usarla de manera segura y con confianza.",
+      "experience": "No se necesita experiencia previa.",
+      "support": "Si al principio te resulta confuso unirte en línea, no te preocupes: habrá apoyo disponible para ayudar a las personas a empezar."
+    },
+    "coding": {
+      "intro": "Este grupo introduce los conceptos básicos de la programación en un entorno amable y de apoyo.",
+      "includeTitle": "Las sesiones pueden incluir cosas como:",
+      "li1": "comprender cómo funciona el código",
+      "li2": "escribir programas sencillos juntas",
+      "li3": "explorar proyectos creativos de programación",
+      "li4": "aprender a resolver problemas mediante la programación",
+      "li5": "ganar confianza usando la tecnología de forma creativa",
+      "aim": "El objetivo no es convertirse en experta de la noche a la mañana, sino explorar cómo funciona la programación y desarrollar curiosidad y confianza.",
+      "experience": "No se necesita experiencia previa.",
+      "support": "Si al principio te resulta confuso unirte en línea, no te preocupes: habrá apoyo disponible para ayudar a las personas a empezar."
+    },
+    "english": {
+      "intro": "Este es un espacio amable e informal para practicar inglés hablado.",
+      "includeTitle": "Las sesiones pueden incluir cosas como:",
+      "li1": "práctica de conversación cotidiana",
+      "li2": "relatos o cuentos populares",
+      "li3": "compartir experiencias personales",
+      "li4": "practicar para entrevistas o presentaciones",
+      "li5": "leer textos breves juntas",
+      "p2": "Las personas con poco o ningún inglés son muy bienvenidas, y avanzamos despacio para que todo el mundo pueda sentirse cómodo participando.",
+      "p3": "El grupo también está abierto a cualquier persona que quiera ganar confianza al hablar, practicar la lectura en voz alta o simplemente disfrutar de la conversación en un entorno de apoyo.",
+      "p4": "No hay ninguna presión por hablar perfectamente. El objetivo es crear un espacio acogedor donde personas de diferentes contextos puedan practicar el idioma, compartir ideas y construir conexiones inesperadas."
+    },
+    "mindfulness": {
+      "intro": "Este grupo ofrece prácticas sencillas de mindfulness para apoyar la calma, la concentración y la conciencia en la vida cotidiana.",
+      "includeTitle": "Las sesiones pueden incluir cosas como:",
+      "li1": "prácticas guiadas de respiración",
+      "li2": "meditaciones breves",
+      "li3": "conciencia corporal y arraigo",
+      "li4": "reflexión suave",
+      "li5": "herramientas sencillas para gestionar el estrés y el agobio",
+      "p2": "Todo es opcional y apto para principiantes. No se necesita experiencia previa.",
+      "p3": "El objetivo no es la perfección, sino crear un espacio tranquilo y de apoyo donde las personas puedan explorar prácticas que puedan ayudarlas a sentirse más centradas."
+    },
+    "art": {
+      "intro": "Este es un espacio acogedor para cualquier persona que disfrute haciendo o compartiendo arte.",
+      "includeTitle": "Las sesiones pueden incluir cosas como:",
+      "li1": "compartir dibujos, pinturas, textos, música, fotografía o manualidades",
+      "li2": "hablar sobre arte que te inspire",
+      "li3": "propuestas creativas opcionales para explorar juntas",
+      "li4": "conversación suave e intercambio de ideas",
+      "li5": "hacer espacio para la curiosidad y la experimentación",
+      "p2": "Eres bienvenida a compartir tu propio trabajo, trabajo inacabado o piezas de otras personas que admires y quieras comentar.",
+      "p3": "El objetivo no es la perfección técnica, sino crear un entorno de apoyo donde las personas puedan explorar la creatividad, intercambiar ideas y disfrutar creando juntas."
+    }
+  }
+}

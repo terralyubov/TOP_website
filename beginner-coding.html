@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Computer Basics | The Oak Project</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="top-bar">
+  <div class="top-left">
+    <a href="index.html" class="brand-link">
+      <span class="site-name">TOP</span>
+      <span class="site-subtitle">The Oak Project</span>
+    </a>
+  </div>
+
+    <nav class="main-nav">
+    <a href="index.html" class="nav-link active-nav" data-i18n="nav.home">Home</a>
+
+    <div class="nav-dropdown">
+      <button class="nav-link nav-dropdown-button" type="button" data-i18n="nav.groups">Groups</button>
+     <div class="nav-dropdown-menu">
+  <a href="computer-basics.html" data-i18n="navgroups.computer">Computer Basics</a>
+  <a href="beginner-coding.html" data-i18n="navgroups.coding">Beginner Coding</a>
+  <a href="english-speaking.html" data-i18n="navgroups.english">English Speaking Practice</a>
+  <a href="mindfulness.html" data-i18n="navgroups.mindfulness">Mindfulness & Meditation</a>
+  <a href="art-sharing.html" data-i18n="navgroups.art">Art Sharing Group</a>
+</div>
+    </div>
+
+    <a href="timetable.html" class="nav-link" data-i18n="nav.timetable">Timetable</a>
+    <a href="about.html" class="nav-link" data-i18n="nav.about">About</a>
+    <a href="help.html" class="nav-link" data-i18n="nav.help">Help</a>
+  </nav>
+
+  <div class="language-switcher">
+    <button id="languageButton" class="language-button" aria-label="Change language">
+      <svg class="globe-icon" viewBox="0 0 24 24" aria-hidden="true">
+        <circle cx="12" cy="12" r="10"></circle>
+        <ellipse cx="12" cy="12" rx="6" ry="10"></ellipse>
+        <line x1="2" y1="12" x2="22" y2="12"></line>
+      </svg>
+    </button>
+
+    <div id="languageMenu" class="language-menu hidden">
+      <button data-lang="en">English</button>
+      <button data-lang="ar">العربية</button>
+      <button data-lang="es">Español</button>
+      <button data-lang="fr">Français</button>
+      <button data-lang="uk">Українська</button>
+      <button data-lang="zh">中文</button>
+    </div>
+  </div>
+</header>
+
+  <main class="page group-page">
+  <section class="group-hero">
+    <img src="images/coding.png" alt="Beginner Coding" class="group-page-image" />
+  </section>
+
+  <section class="group-content">
+    <p class="back-link-wrap">
+      <a href="index.html" class="back-link">
+        <span class="back-arrow">←</span> <span data-i18n="groupPages.backToGroups">Back to groups</span>
+      </a>
+    </p>
+
+    <h1 data-i18n="groups.coding.title">Beginner Coding</h1>
+
+    <p data-i18n="groupPages.coding.intro">This group introduces the basics of programming in a friendly and supportive environment.</p>
+
+    <p><strong data-i18n="groupPages.coding.includeTitle">Sessions may include things like:</strong></p>
+
+    <ul class="group-list">
+      <li data-i18n="groupPages.coding.li1">understanding how code works</li>
+      <li data-i18n="groupPages.coding.li2">writing simple programs together</li>
+      <li data-i18n="groupPages.coding.li3">exploring creative coding projects</li>
+      <li data-i18n="groupPages.coding.li4">learning problem-solving through programming</li>
+      <li data-i18n="groupPages.coding.li5">building confidence using technology creatively</li>
+    </ul>
+
+    <p data-i18n="groupPages.coding.aim">The aim is not to become an expert overnight, but to explore how coding works and develop curiosity and confidence.</p>
+
+    <p data-i18n="groupPages.coding.experience">No previous experience is needed.</p>
+
+    <p data-i18n="groupPages.coding.support">If joining online feels confusing at first, don’t worry — support will be available to help people get started.</p>
+
+    <section class="session-info">
+      <h2 data-i18n="sessionInfo.title">Session details</h2>
+
+      <p class="session-time">
+        <strong data-i18n="sessionInfo.when">When:</strong> Saturday — 5:00–6:00 pm
+        <br>
+        <strong data-i18n="sessionInfo.duration">Duration:</strong> <span data-i18n="sessionInfo.oneHour">1 hour</span>
+        <br>
+        <strong data-i18n="sessionInfo.format">Format:</strong> <span data-i18n="sessionInfo.onlineZoom">Online (Zoom)</span>
+      </p>
+
+      <p class="session-note" data-i18n="sessionInfo.timeNote">If this time does not work for you, please feel free to get in touch. The Oak Project is still growing, and we hope to add more sessions as the community develops. We will always do our best to accommodate times that work for as many people as possible.</p>
+    </section>
+
+    <a href="PASTE-CODING-FORM-LINK-HERE" class="signup-button" target="_blank" rel="noopener noreferrer" data-i18n="buttons.signup">
+      Sign up now
+    </a>
+  </section>
+</main>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <p class="footer-text">The Oak Project (TOP)</p>
+
+    <div class="footer-links">
+      <a href="mailto:hello@theoakproject.org" class="footer-link" aria-label="Email">
+        <img src="images/icon-email.png" alt="Email" class="footer-img-icon">
+      </a>
+
+      <a href="https://wa.me/447593195218" target="_blank" rel="noopener noreferrer" class="footer-link" aria-label="WhatsApp">
+        <img src="images/icon-whatsapp.png" alt="WhatsApp" class="footer-img-icon">
+      </a>
+
+     <a href="https://instagram.com/the_oak_project" target="_blank" rel="noopener noreferrer" class="footer-link" aria-label="Instagram">
+  <img src="images/icon-instagram.png" alt="Instagram" class="footer-img-icon">
+</a>
+    </div>
+  </div>
+</footer>
+  <script src="script.js"></script>
+</body>
+</html>

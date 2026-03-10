@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Oak Project</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="top-bar">
+  <div class="top-left">
+    <a href="index.html" class="brand-link">
+      <span class="site-name">TOP</span>
+      <span class="site-subtitle" data-i18n="siteSubtitle">The Oak Project</span>
+    </a>
+  </div>
+
+  <nav class="main-nav">
+  <a href="index.html" class="nav-link active-nav" data-i18n="nav.home">Home</a>
+
+  <div class="nav-dropdown">
+    <button class="nav-link nav-dropdown-button" type="button" data-i18n="nav.groups">Groups</button>
+   <div class="nav-dropdown-menu">
+  <a href="computer-basics.html" data-i18n="navgroups.computer">Computer Basics</a>
+  <a href="beginner-coding.html" data-i18n="navgroups.coding">Beginner Coding</a>
+  <a href="english-speaking.html" data-i18n="navgroups.english">English Speaking Practice</a>
+  <a href="mindfulness.html" data-i18n="navgroups.mindfulness">Mindfulness & Meditation</a>
+  <a href="art-sharing.html" data-i18n="navgroups.art">Art Sharing Group</a>
+</div>
+  </div>
+
+  <a href="timetable.html" class="nav-link" data-i18n="nav.timetable">Timetable</a>
+  <a href="about.html" class="nav-link" data-i18n="nav.about">About</a>
+  <a href="help.html" class="nav-link" data-i18n="nav.help">Help</a>
+</nav>
+
+  <div class="language-switcher">
+    <button id="languageButton" class="language-button" aria-label="Change language">
+      <svg class="globe-icon" viewBox="0 0 24 24" aria-hidden="true">
+        <circle cx="12" cy="12" r="10"></circle>
+        <ellipse cx="12" cy="12" rx="6" ry="10"></ellipse>
+        <line x1="2" y1="12" x2="22" y2="12"></line>
+      </svg>
+    </button>
+    <div id="languageMenu" class="language-menu hidden">
+      <button data-lang="en">English</button>
+      <button data-lang="ar">العربية</button>
+      <button data-lang="es">Español</button>
+      <button data-lang="fr">Français</button>
+      <button data-lang="uk">Українська</button>
+      <button data-lang="zh">中文</button>
+    </div>
+  </div>
+</header>
+
+  <main class="page">
+    <section class="hero">
+      <div class="logo-wrap">
+        <img src="images/logo.png" alt="The Oak Project logo" class="logo" />
+      </div>
+
+      <h1 data-i18n="tagline">A community space for learning, creativity and connection.</h1>
+
+      <p class="intro" data-i18n="intro">
+        The Oak Project (TOP) is a small welcoming community project where people can come together to learn useful skills, share creativity, and support one another in a friendly environment.
+      </p>
+
+      <p class="online-free" data-i18n="onlineFree">
+        All groups and classes are online and free to attend.
+      </p>
+    </section>
+
+
+<p class="hero-button-wrap">
+ <a href="timetable.html" class="hero-button" data-i18n="buttons.viewTimetable">
+  View weekly timetable
+</a>
+</p>
+
+      <section class="groups-section">
+  <h2 data-i18n="groupsTitle">Groups</h2>
+  <p class="groups-intro" data-i18n="groupsIntro">
+    No experience needed, all welcome, whatever level.
+  </p>
+
+  <div class="groups-grid">
+    <a class="group-card card-link" href="computer-basics.html">
+      <img src="images/computer.png" alt="" class="group-image" />
+      <h3 data-i18n="groups.computer.title">Computer Basics</h3>
+      <p data-i18n="groups.computer.desc">
+        A friendly introduction to computers email and staying safe and confident online.
+      </p>
+    </a>
+
+    <a class="group-card card-link" href="beginner-coding.html">
+      <img src="images/coding.png" alt="" class="group-image" />
+      <h3 data-i18n="groups.coding.title">Beginner Coding</h3>
+      <p data-i18n="groups.coding.desc">
+        A gentle introduction to programming where we explore simple coding concepts and small creative projects together.
+      </p>
+    </a>
+
+    <a class="group-card card-link" href="english-speaking.html">
+      <img src="images/english.png" alt="" class="group-image" />
+      <h3 data-i18n="groups.english.title">English Speaking Practice</h3>
+      <p data-i18n="groups.english.desc">
+        A relaxed conversation group for people with little or no English as well as anyone who wants to practise speaking with more confidence.
+      </p>
+    </a>
+
+    <a class="group-card card-link" href="mindfulness.html">
+      <img src="images/mindfulness.png" alt="" class="group-image" />
+      <h3 data-i18n="groups.mindfulness.title">Mindfulness and Meditation</h3>
+      <p data-i18n="groups.mindfulness.desc">
+        Simple mindfulness practices to help cultivate calm focus and awareness in everyday life.
+      </p>
+    </a>
+
+    <a class="group-card card-link" href="art-sharing.html">
+      <img src="images/art.png" alt="" class="group-image" />
+      <h3 data-i18n="groups.art.title">Art Sharing Group</h3>
+      <p data-i18n="groups.art.desc">
+        A welcoming creative space to share artwork ideas and inspiration with optional prompts to explore creatively together.
+      </p>
+    </a>
+  </div>
+</section>
+
+    <section class="updates">
+  <p data-i18n="moreSoon">More to come soon!</p>
+  <p>
+    <a href="https://forms.gle/5wGqr4tWKQwrsamEA" class="mailing-link" target="_blank" rel="noopener noreferrer" data-i18n="updates.mailingList">
+      Join our mailing list
+    </a>
+    <span data-i18n="updates.socialText">or follow us on social media for updates.</span>
+  </p>
+</section>
+    </section>
+  </main>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <p class="footer-text">The Oak Project (TOP)</p>
+
+    <div class="footer-links">
+      <a href="mailto:hello@theoakproject.org" class="footer-link" aria-label="Email">
+        <img src="images/icon-email.png" alt="Email" class="footer-img-icon">
+      </a>
+
+      <a href="https://wa.me/447593195218" target="_blank" rel="noopener noreferrer" class="footer-link" aria-label="WhatsApp">
+        <img src="images/icon-whatsapp.png" alt="WhatsApp" class="footer-img-icon">
+      </a>
+
+      <a href="https://instagram.com/the_oak_project" target="_blank" rel="noopener noreferrer" class="footer-link" aria-label="Instagram">
+  <img src="images/icon-instagram.png" alt="Instagram" class="footer-img-icon">
+</a>
+    </div>
+  </div>
+</footer>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -110,11 +110,11 @@
     "timeNote": "Si este horario no te viene bien, no dudes en ponerte en contacto. The Oak Project todavía está creciendo y esperamos añadir más sesiones a medida que la comunidad se desarrolle. Siempre haremos todo lo posible por adaptarnos a horarios que funcionen para el mayor número de personas posible."
   },
   "groupSchedule": {
-  "computerWhen": "Sábado — 15:30–16:30",
-  "codingWhen": "Sábado — 17:00–18:00",
-  "englishWhen": "Jueves — 17:00–18:00",
-  "mindfulnessWhen": "Domingo — 12:00–13:00",
-  "artWhen": "Domingo — 15:30–16:30"
+  "computerWhen": "Sábado - 15:30-16:30",
+  "codingWhen": "Sábado - 17:00-18:00",
+  "englishWhen": "Jueves - 17:00-18:00",
+  "mindfulnessWhen": "Domingo - 12:00-13:00",
+  "artWhen": "Domingo -u 15:30-16:30"
 },
   "groupPages": {
     "backToGroups": "Volver a los grupos",

@@ -110,11 +110,11 @@
     "timeNote": "如果这个时间不适合你，请随时联系我们。The Oak Project 仍在成长中，我们希望随着社区的发展增加更多课程。我们会尽力安排适合尽可能多人的时间。"
   },
   "groupSchedule": {
-  "computerWhen": "星期六 — 15:30–16:30",
-  "codingWhen": "星期六 — 17:00–18:00",
-  "englishWhen": "星期四 — 17:00–18:00",
-  "mindfulnessWhen": "星期日 — 12:00–13:00",
-  "artWhen": "星期日 — 15:30–16:30"
+  "computerWhen": "星期六 - 15:30-16:30",
+  "codingWhen": "星期六 - 17:00-18:00",
+  "englishWhen": "星期四 - 17:00-18:00",
+  "mindfulnessWhen": "星期日 - 12:00-13:00",
+  "artWhen": "星期日 - 15:30-16:30"
 },
   "groupPages": {
     "backToGroups": "返回小组",
